@@ -51,5 +51,5 @@ CREATE TABLE `addresses` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 
-<strong>Para iniciar o projeto é necessário acessar a página .../login.html  e clicar em registrar para criar um usuário e acessar os dados do gerenciador de clientes</strong>
+<strong>Para iniciar o projeto é necessário acessar a página .../login.html  e clicar em registrar para criar um usuário e senha. Após isso o usuário é necessário o usuário fazer o login para acessar o gerenciador de clientes</strong>
 
