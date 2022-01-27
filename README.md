@@ -1,4 +1,4 @@
-# desafioKabum
+# desafio-php-kabum
 
 Para iniciar o projeto é necessário utilizar o XAMPP e deixar ativado o "Apache" e o "MySQL".
 
